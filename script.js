@@ -37,6 +37,8 @@ ketik();
 
 function surprise(){
 
+  document.getElementById("bgMusic").play();
+  
 alert("Semoga hari ini menjadi hari yang paling membahagiakan buat kamu ❤️🎂🥳");
 
 createLove();
