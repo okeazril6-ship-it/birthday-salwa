@@ -1,6 +1,5 @@
 const foto=[
-"foto1.jpg",
-"foto2.jpg"
+"foto.jpg",
 ];
 
 let i=0;
